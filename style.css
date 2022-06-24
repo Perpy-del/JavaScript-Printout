@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.details{
+  font-weight: 700;
+  font-size: 20pt;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  line-height: 50px;
+}
